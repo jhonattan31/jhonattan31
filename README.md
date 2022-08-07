@@ -1,7 +1,5 @@
 ## Olá, me chamo Jhonattan Nascimento! 
 ### Bem vindo ao meu perfil GitHub 👋
-
-<!--
 - ⚡ Sobre mim:
 ## Sou desenvolvedor back-end, focado em python, Graduado em Sistemas de Informação pela UFC-Quixadá. Aventurando-se na busca de experiências desafiadoras para colocar a prova meus conhecimentos. Além disso, viso aprender novas tecnologias e habilidades com base no que for necessário. Considero-me uma pessoa focada em cada projeto, que gosta de trabalhar em grupo e não sente vergonha em tirar dúvidas quando for necessário.
 
@@ -29,4 +27,3 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
--->
