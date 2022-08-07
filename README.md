@@ -12,7 +12,7 @@ Sou desenvolvedor back-end, focado em python, Graduado em Sistemas de Informaç�
 
 - 💬 Experiência com:
 
-     <img height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> <img height=50 width=90 src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_4c90301bc925592ec131471cf70b793b/rasa.png" /> <img height=50 width=130 src="https://www.cryt.ie/wp-content/uploads/2020/03/scrapy.png" /> <img height=50 width=80 src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Apache_Jena_logo.svg/1200px-Apache_Jena_logo.svg.png" /> <img height=50 width=50 src="https://pbs.twimg.com/profile_images/1091095211378233345/QKOjpAXJ_400x400.jpg" />
+     <img height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> <img height=50 width=90 src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_4c90301bc925592ec131471cf70b793b/rasa.png" /> <img height=50 width=130 src="https://www.cryt.ie/wp-content/uploads/2020/03/scrapy.png" /> <img height=50 width=80 src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Apache_Jena_logo.svg/1200px-Apache_Jena_logo.svg.png" />
           
 - 🌱 Atualmente estou aprendendo ...
           
