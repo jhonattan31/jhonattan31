@@ -3,8 +3,7 @@
 ## Olá, me chamo Jhonattan Nascimento! 
 ### Bem vindo ao meu perfil GitHub 👋
 - ⚡ Sobre mim:
-
-Sou desenvolvedor back-end, focado em python, Graduado em Sistemas de Informação pela UFC-Quixadá. Aventurando-se na busca de experiências desafiadoras para colocar a prova meus conhecimentos. Além disso, viso aprender novas tecnologias e habilidades com base no que for necessário. Considero-me uma pessoa focada em cada projeto, que gosta de trabalhar em grupo e não sente vergonha em tirar dúvidas quando for necessário.
+Sou desenvolvedor back-end, focado em python e javascript, Graduado em Sistemas de Informação pela UFC-Quixadá. Aventurando-se na busca de experiências desafiadoras para colocar a prova meus conhecimentos. Além disso, viso aprender novas tecnologias e habilidades com base no que for necessário. Considero-me uma pessoa focada em cada projeto, que gosta de trabalhar em grupo e não sente vergonha em tirar dúvidas quando for necessário.
 
 - 🔭 Atualmente estou trabalhando em:
           
