@@ -13,11 +13,11 @@ Sou desenvolvedor back-end, focado em python e javascript, Graduado em Sistemas 
 
      <img height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> <img height=50 width=90 src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_4c90301bc925592ec131471cf70b793b/rasa.png" /> <img height=50 width=130 src="https://www.cryt.ie/wp-content/uploads/2020/03/scrapy.png" /> <img height=50 width=80 src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Apache_Jena_logo.svg/1200px-Apache_Jena_logo.svg.png" />
           
-- 🌱 Atualmente estou aprendendo ...
+- 🌱 Atualmente estou aprendendo:
           
      <img height=50 width=50  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original-wordmark.svg" />  <img height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />  <img height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />  <img height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /> <img height=50 width=50  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> <img height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" /> 
 
-- 📫 Como entrar em contato comigo: ...
+- 📫 Como entrar em contato comigo:
           <div>
           <a href = "jhonattan.nascimento.barbosa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
           <a href="https://www.linkedin.com/in/jhonattan-nascimento-barbosa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
